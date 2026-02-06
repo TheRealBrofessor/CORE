@@ -1,70 +1,50 @@
 site_name: CORE — Community Obsidian Resource Exchange
-site_description: Open, community-driven learning resources for computer science, cybersecurity, cloud, and AI
+site_description: Open, community-driven learning resources for computer science,
+  cybersecurity, cloud, and AI
 site_author: CORE Community
-
 docs_dir: Docs
 site_dir: site
-
 theme:
   name: material
   features:
-    - navigation.tabs
-    - navigation.sections
-    - navigation.expand
-    - content.code.copy
-
+  - navigation.tabs
+  - navigation.sections
+  - navigation.expand
+  - content.code.copy
 plugins:
-  - search
-
+- search
 nav:
-  - Home: index.md
-  - Roadmap: roadmap.md
-  - About: about.md
-
-  - Beginner:
-      - Computer Science:
-          - What is a Computer?: notes/beginner/cs/what-is-a-computer.md
-      - Linux: notes/beginner/linux/index.md
-      - Networking: notes/beginner/networking/index.md
-      - Git: notes/beginner/git/index.md
-
-  - Intermediate:
-      - Web: notes/intermediate/web/index.md
-      - Databases: notes/intermediate/databases/index.md
-      - Cloud: notes/intermediate/cloud/index.md
-      - Security: notes/intermediate/security/index.md
-
-  - Advanced:
-      - Red Teaming: notes/advanced/red-teaming/index.md
-      - Cloud Security: notes/advanced/cloud-security/index.md
-      - Malware: notes/advanced/malware/index.md
-      - AI: notes/advanced/ai/index.md
-
-  - Library:
-      - Overview: library/index.md
-      - Glossary: library/glossary/index.md
-      - Domains:
-          - Computer Science: library/cs/index.md
-          - Linux: library/linux/index.md
-          - Networking: library/networking/index.md
-          - Web: library/web/index.md
-          - Databases: library/databases/index.md
-          - Cloud: library/cloud/index.md
-          - Security: library/security/index.md
-          - DevOps: library/devops/index.md
-          - AI: library/ai/index.md
-      - Tools: library/tools/index.md
-      - Patterns: library/patterns/index.md
-      - Checklists: library/checklists/index.md
-      - Playbooks: library/playbooks/index.md
-      - Templates: library/templates/index.md
-      - Reading Lists: library/reading/index.md
-
-  - Labs: notes/labs/index.md
-  - Cheatsheets: notes/cheatsheets/index.md
-
+- Home: index.md
+- Roadmap: roadmap.md
+- About: about.md
+- Beginner:
+  - Computer Science:
+    - What is a Computer?: notes/beginner/cs/what-is-a-computer.md
+  - Linux: notes/beginner/linux/index.md
+  - Networking: notes/beginner/networking/index.md
+  - Git: notes/beginner/git/index.md
+- Intermediate:
+  - Web: notes/intermediate/web/index.md
+  - Databases: notes/intermediate/databases/index.md
+  - Cloud: notes/intermediate/cloud/index.md
+  - Security: notes/intermediate/security/index.md
+- Advanced:
+  - Red Teaming: notes/advanced/red-teaming/index.md
+  - Cloud Security: notes/advanced/cloud-security/index.md
+  - Malware: notes/advanced/malware/index.md
+  - AI: notes/advanced/ai/index.md
+- Library:
+  - Overview: library/index.md
+  - Glossary: library/glossary/index.md
+  - Linux: library/linux/index.md
+  - Networking: library/networking/index.md
+  - Checklists:
+    - Linux Baseline: library/checklists/linux-baseline.md
+    - Network Debug: library/checklists/network-debug.md
+- Labs: notes/labs/index.md
+- Cheatsheets: notes/cheatsheets/index.md
 markdown_extensions:
-  - admonition
-  - footnotes
-  - toc:
-      permalink: true
+- admonition
+- footnotes
+- toc:
+    permalink: true

@@ -1,9 +1,13 @@
 # Networking Fundamentals
 
-Networking is how computers communicate—locally and over the internet.
+## What networking is
+Networking is how systems communicate using IP addressing and protocols.
 
-## You’ll learn
-- IP, DNS, ports, and protocols
-- TCP vs UDP mental model
-- Basic troubleshooting tools (ping, curl, traceroute)
-- Why this matters for web, cloud, and security
+## Start here
+- IP + DNS + ports
+- TCP vs UDP
+- Use `curl` and `dig`
+
+## Next
+- Library hub: `../../library/networking/index.md`
+- Cheatsheet: `../../notes/cheatsheets/networking.md`

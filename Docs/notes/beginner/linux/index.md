@@ -1,9 +1,13 @@
 # Linux Fundamentals
 
-This section introduces Linux as a daily environment for development, cloud, and security work.
+## What Linux is
+Linux is a family of operating systems used heavily in servers, cloud, containers, and security tooling.
 
-## You’ll learn
-- Shell navigation and core commands
-- Filesystem layout and permissions
-- Processes, services, and logs
-- Installing and updating software
+## Start here
+- Learn filesystem navigation
+- Understand permissions
+- Learn how to inspect processes and logs
+
+## Next
+- Library hub: `../../library/linux/index.md`
+- Cheatsheet: `../../notes/cheatsheets/linux-cli.md`
