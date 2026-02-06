@@ -2,8 +2,7 @@ site_name: CORE — Community Obsidian Resource Exchange
 site_description: Open, community-driven learning resources for computer science, cybersecurity, cloud, and AI
 site_author: CORE Community
 
-# IMPORTANT: include notes/ in the build
-docs_dir: .
+docs_dir: Docs
 site_dir: site
 
 theme:
@@ -15,9 +14,9 @@ theme:
     - content.code.copy
 
 nav:
-  - Home: Docs/index.md
-  - Roadmap: Docs/roadmap.md
-  - About: Docs/about.md
+  - Home: index.md
+  - Roadmap: roadmap.md
+  - About: about.md
 
   - Beginner:
       - Computer Science:
