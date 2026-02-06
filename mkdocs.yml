@@ -36,11 +36,17 @@ nav:
 - Library:
   - Overview: library/index.md
   - Glossary: library/glossary/index.md
+  - Domains:
+    - Web: library/web/index.md
+    - Security: library/security/index.md
   - Linux: library/linux/index.md
   - Networking: library/networking/index.md
   - Checklists:
     - Linux Baseline: library/checklists/linux-baseline.md
     - Network Debug: library/checklists/network-debug.md
+    - Security Baseline: library/checklists/security-baseline.md
+  - Playbooks:
+    - Suspicious Login: library/playbooks/suspicious-login.md
 - Labs: notes/labs/index.md
 - Cheatsheets: notes/cheatsheets/index.md
 markdown_extensions:
