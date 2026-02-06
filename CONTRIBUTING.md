@@ -11,11 +11,11 @@ Consistency matters more than volume.
 5. Open a PR and complete the checklist
 
 ## Where Things Go
-- Notes: `notes/<level>/<domain>/...`
+- Notes: `Docs/notes/<level>/<domain>/...`
   - levels: `beginner | intermediate | advanced`
   - domains: `cs | linux | networking | web | databases | cloud | security | ai`
-- Labs: `notes/labs/`
-- Cheatsheets: `notes/cheatsheets/`
+- Labs: `Docs/notes/labs/`
+- Cheatsheets: `Docs/notes/cheatsheets/`
 
 ## Note Rules (Non-Negotiable)
 - One concept per note (no mega-dumps)

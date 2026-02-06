@@ -1,26 +1,24 @@
 # CORE — Community Obsidian Resource Exchange
 
-CORE is a community-driven knowledge base for computer science, cybersecurity, cloud, and AI.
+CORE is a community-driven knowledge base for **computer science, cybersecurity, cloud, and AI**.
 
-The project is organized into structured learning paths:
-- Beginner
-- Intermediate
-- Advanced
+## Local Setup (Ubuntu)
+```bash
+python3 -m venv .venv
+source .venv/bin/activate
+pip install -U pip
+pip install -r requirements.txt
+```
 
-With supporting notes, templates, and future labs.
-
-## Built With
-- MkDocs
-- GitHub Pages
-
-## Local Preview
+## Preview
+```bash
 mkdocs serve
+```
 
-## Build
+## Build (CI parity)
+```bash
 mkdocs build --strict
+```
 
 ## Contributing
 See CONTRIBUTING.md
-
-## License
-See LICENSE
