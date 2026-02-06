@@ -1,8 +1,8 @@
 # Playbooks
 
-Longer operational guides for responding to events.
+Operational response guides.
 
 Examples:
-- “Suspicious login investigation”
-- “Credential leak response”
-- “Vuln triage workflow”
+- Suspicious login investigation
+- Credential leak response
+- Vulnerability triage workflow

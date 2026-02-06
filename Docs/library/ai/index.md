@@ -1,12 +1,12 @@
 # Ai
 
-Reference hub for **ai**.
+Reference hub for **Ai**.
 
 ## What belongs here
 - definitions and key concepts
 - curated resources
 - tools and commands
-- checklists/playbooks (link out)
+- links to checklists and playbooks
 
 ## Quick links
 - Glossary: ../glossary/index.md

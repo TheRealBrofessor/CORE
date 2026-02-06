@@ -1,6 +1,6 @@
 # Reading Lists
 
-Curated learning lists per domain, with estimated difficulty.
+Curated learning lists per domain.
 
 Format:
 - Resource

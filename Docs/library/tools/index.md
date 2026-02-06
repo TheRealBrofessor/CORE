@@ -1,8 +1,8 @@
 # Tools
 
-Curated tooling used across CS, security, cloud, and dev workflows.
+Curated tooling used across CS, security, cloud, and development workflows.
 
-Sections:
+Suggested sections:
 - Editors/IDEs
 - Shell tooling
 - Networking tools

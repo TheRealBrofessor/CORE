@@ -7,4 +7,4 @@ Examples:
 - Defense in depth
 - Zero trust
 - Logging strategy
-- Backups & restore testing
+- Backup/restore testing

@@ -1,12 +1,12 @@
 # Cs
 
-Reference hub for **cs**.
+Reference hub for **Cs**.
 
 ## What belongs here
 - definitions and key concepts
 - curated resources
 - tools and commands
-- checklists/playbooks (link out)
+- links to checklists and playbooks
 
 ## Quick links
 - Glossary: ../glossary/index.md
