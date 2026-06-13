@@ -1,24 +1,5 @@
-# CORE — Community Obsidian Resource Exchange
+# CORE
 
-CORE is a community-driven knowledge base for **computer science, cybersecurity, cloud, and AI**.
+Community Obsidian Resource Exchange.
 
-## Local Setup (Ubuntu)
-```bash
-python3 -m venv .venv
-source .venv/bin/activate
-pip install -U pip
-pip install -r requirements.txt
-```
-
-## Preview
-```bash
-mkdocs serve
-```
-
-## Build (CI parity)
-```bash
-mkdocs build --strict
-```
-
-## Contributing
-See CONTRIBUTING.md
+This repository was reset after unexpected Python/virtual-environment contents were found. Rebuild cleanly from trusted local files only.
