@@ -1,0 +1,39 @@
+# Obsidian personal workspace state (do not commit)
+.obsidian/workspace*
+.obsidian/plugins/
+.obsidian/*.json
+
+# OS clutter
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor/IDE
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+
+# Node
+node_modules/
+
+# Build / site output
+site/
+dist/
+build/
+_site/
+.cache/
+
+# Logs and temp files
+*.log
+*.tmp
+*.swp
+
+# Archives (should not be committed to a Markdown vault)
+*.zip
+*.tar.gz
