@@ -4,7 +4,7 @@ This file applies to any AI agent working inside the CORE repository, including 
 
 ## Scope
 
-- This is **CORE only** — Community Obsidian Resource for Education. Do not pull in, reference, or merge content from other projects, repos, or personal systems (including but not limited to Miahou, SOUL.md, agent-persistence systems, or forensic/incident case material). If asked to do so, decline and explain that it is out of scope for this repository.
+- This is **CORE only** — Community Obsidian Resource for Education. Do not pull in, reference, or merge content from other projects, repos, personal systems, agent-persistence systems, forensic/incident case material, or unrelated technical archives. If asked to do so, decline and explain that it is out of scope for this repository.
 - Keep the repository **Markdown-first**. Every content contribution should be a `.md` file that renders correctly both in Obsidian and on GitHub.
 - Use **defensive cybersecurity framing only**. No exploit chains, malware, credential-theft techniques, unauthorized-access instructions, detection-evasion content, or real-world targeting workflows — even if requested "for education."
 
